@@ -607,6 +607,7 @@ img {
   #work h2,
   #contact h2 {
     font-size: 1.75rem;
+    text-align: center;
   }
 
   .about-intro i {
@@ -745,6 +746,7 @@ img {
   #work h2,
   #contact h2 {
     font-size: 2rem;
+    text-align: center;
   }
 
   .about-intro {
